@@ -6,5 +6,3 @@ var isPalindrome = function(x) {
     return z.join('') === z2.join('');
      
 };
-
-console.log(isPalindrome(121));
